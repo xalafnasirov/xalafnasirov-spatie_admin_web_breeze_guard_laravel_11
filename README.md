@@ -17,7 +17,7 @@ Follow these steps to set up the project:
 ### Prerequisites
 - PHP >= 8.0
 - Composer
-- Laravel 9+
+- Laravel 11
 - MySQL or any other database supported by Laravel
 
 ### Steps
