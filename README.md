@@ -24,9 +24,9 @@ Follow these steps to set up the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_project.git```
+   git clone https://github.com/xalafnasirov/Admin-Client-Basic-Laravel-Breeze-Guard.git
 2.	Navigate into the project directory:
-   ```cd your_project```
+   ```cd Admin-Client-Basic-Laravel-Breeze-Guard```
 3. 	Rename .env.example to .env:
    Change ```.env.example```to ```.env```
 4. Install the required dependencies:
